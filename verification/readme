@@ -1,0 +1,1 @@
+This python notebook implements the sha-256 algorithm and prints all the intermediate and final hash values generated. These values successfully match with the output waveform of modelsim-altera.
